@@ -1,0 +1,25 @@
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.red {
+    color: red;
+}
+body {
+    background-color: #FFCC66;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 3px;
+    padding: 3px 8px 0;
+    background-color: white;
+    border: 1px solid #666;
+    font-size: 15px;
+}
+h1 {
+    text-align: center;
+}
+}
